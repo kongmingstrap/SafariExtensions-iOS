@@ -45,6 +45,10 @@
 		291B69A027C118BE00D0C565 /* popup.css in Resources */ = {isa = PBXBuildFile; fileRef = 291B695027C118BE00D0C565 /* popup.css */; };
 		291B69A127C118BE00D0C565 /* popup.js in Resources */ = {isa = PBXBuildFile; fileRef = 291B695127C118BE00D0C565 /* popup.js */; };
 		291B69A227C118BE00D0C565 /* popup.js in Resources */ = {isa = PBXBuildFile; fileRef = 291B695127C118BE00D0C565 /* popup.js */; };
+		299B103827CA16BD0073479D /* snackbar.css in Resources */ = {isa = PBXBuildFile; fileRef = 299B103727CA16BD0073479D /* snackbar.css */; };
+		299B103927CA16BD0073479D /* snackbar.css in Resources */ = {isa = PBXBuildFile; fileRef = 299B103727CA16BD0073479D /* snackbar.css */; };
+		299B103B27CA174F0073479D /* snackbar.html in Resources */ = {isa = PBXBuildFile; fileRef = 299B103A27CA174F0073479D /* snackbar.html */; };
+		299B103C27CA174F0073479D /* snackbar.html in Resources */ = {isa = PBXBuildFile; fileRef = 299B103A27CA174F0073479D /* snackbar.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -120,6 +124,8 @@
 		291B697E27C118BE00D0C565 /* SafariExtensionSampler-iOS Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "SafariExtensionSampler-iOS Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
 		291B698327C118BE00D0C565 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		291B698427C118BE00D0C565 /* SafariExtensionSampler-iOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "SafariExtensionSampler-iOS.entitlements"; sourceTree = "<group>"; };
+		299B103727CA16BD0073479D /* snackbar.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = snackbar.css; sourceTree = "<group>"; };
+		299B103A27CA174F0073479D /* snackbar.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = snackbar.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -208,6 +214,8 @@
 				291B694F27C118BE00D0C565 /* popup.html */,
 				291B695027C118BE00D0C565 /* popup.css */,
 				291B695127C118BE00D0C565 /* popup.js */,
+				299B103727CA16BD0073479D /* snackbar.css */,
+				299B103A27CA174F0073479D /* snackbar.html */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -414,6 +422,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				299B103827CA16BD0073479D /* snackbar.css in Resources */,
+				299B103B27CA174F0073479D /* snackbar.html in Resources */,
 				291B699927C118BE00D0C565 /* background.js in Resources */,
 				291B699F27C118BE00D0C565 /* popup.css in Resources */,
 				291B699D27C118BE00D0C565 /* popup.html in Resources */,
@@ -429,6 +439,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				299B103927CA16BD0073479D /* snackbar.css in Resources */,
+				299B103C27CA174F0073479D /* snackbar.html in Resources */,
 				291B699A27C118BE00D0C565 /* background.js in Resources */,
 				291B69A027C118BE00D0C565 /* popup.css in Resources */,
 				291B699E27C118BE00D0C565 /* popup.html in Resources */,
